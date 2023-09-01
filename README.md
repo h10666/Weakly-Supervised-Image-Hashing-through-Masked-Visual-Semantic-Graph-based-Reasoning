@@ -30,4 +30,6 @@ The mAP@all results for the MIRFlickr25k dataset
 
 The mAP@all results for the NUS-WIDE dataset
 8bits | 16bits | 32bits | 48bits | 64bits 
-60.60 | 62.08  | 63.91  | 64.05  | 64.13
+60.60 | 62.08  | 63.91  | 64.05  | 64.13  
+
+完整代码 https://pan.baidu.com/s/1VO0sQKBdhsfb25SdIw18Rw?pwd=945i
